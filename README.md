@@ -2,15 +2,10 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
+<p>My name is Heet Patel. I am currently pursuing my Master of Computer Applications from LJ University. I completed my Bachelor's degree in Computer Applications from CK Pithawalla College in Surat.</p>
 
 ###
-
-<!-- <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p> -->
 
 ###
 
